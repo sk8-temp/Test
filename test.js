@@ -8,3 +8,4 @@ function checkEvenOrOdd(number) {
 
 console.log(checkEvenOrOdd(7)); // Output: Odd
 console.log(checkEvenOrOdd(12)); // Output: Even
+console.log(checkEvenOrOdd(89));
